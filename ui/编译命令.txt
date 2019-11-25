@@ -1,0 +1,4 @@
+修改软件内图标
+先运行img.py
+
+pyinstaller -F -w -i xxx.ico 360.py
